@@ -48,6 +48,9 @@ public class Main {
         System.out.println(numberOfPennies + " pennies");
 
         /*
+
+        WHY IS THIS HARDER THAN THE CHALLENGE
+
         double a = 18.24;  // 18
         double b = 212.5;  // 213
         double c = -5.3;   // -5
